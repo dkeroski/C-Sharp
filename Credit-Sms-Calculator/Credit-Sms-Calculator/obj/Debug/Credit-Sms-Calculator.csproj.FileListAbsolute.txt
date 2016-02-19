@@ -1,0 +1,6 @@
+E:\VS-projects\Credit-Sms-Calculator\Credit-Sms-Calculator\bin\Debug\Credit-Sms-Calculator.exe.config
+E:\VS-projects\Credit-Sms-Calculator\Credit-Sms-Calculator\bin\Debug\Credit-Sms-Calculator.exe
+E:\VS-projects\Credit-Sms-Calculator\Credit-Sms-Calculator\bin\Debug\Credit-Sms-Calculator.pdb
+E:\VS-projects\Credit-Sms-Calculator\Credit-Sms-Calculator\obj\Debug\Credit-Sms-Calculator.csprojResolveAssemblyReference.cache
+E:\VS-projects\Credit-Sms-Calculator\Credit-Sms-Calculator\obj\Debug\Credit-Sms-Calculator.exe
+E:\VS-projects\Credit-Sms-Calculator\Credit-Sms-Calculator\obj\Debug\Credit-Sms-Calculator.pdb
