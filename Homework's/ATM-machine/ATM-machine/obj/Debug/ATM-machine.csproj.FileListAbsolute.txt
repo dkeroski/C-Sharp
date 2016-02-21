@@ -1,0 +1,6 @@
+E:\VS-projects\homework\ATM-machine\ATM-machine\bin\Debug\ATM-machine.exe.config
+E:\VS-projects\homework\ATM-machine\ATM-machine\bin\Debug\ATM-machine.exe
+E:\VS-projects\homework\ATM-machine\ATM-machine\bin\Debug\ATM-machine.pdb
+E:\VS-projects\homework\ATM-machine\ATM-machine\obj\Debug\ATM-machine.csprojResolveAssemblyReference.cache
+E:\VS-projects\homework\ATM-machine\ATM-machine\obj\Debug\ATM-machine.exe
+E:\VS-projects\homework\ATM-machine\ATM-machine\obj\Debug\ATM-machine.pdb
