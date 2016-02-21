@@ -1,0 +1,6 @@
+E:\VS-projects\homework\exercise2\exercise2\bin\Debug\exercise2.exe.config
+E:\VS-projects\homework\exercise2\exercise2\bin\Debug\exercise2.exe
+E:\VS-projects\homework\exercise2\exercise2\bin\Debug\exercise2.pdb
+E:\VS-projects\homework\exercise2\exercise2\obj\Debug\exercise2.csprojResolveAssemblyReference.cache
+E:\VS-projects\homework\exercise2\exercise2\obj\Debug\exercise2.exe
+E:\VS-projects\homework\exercise2\exercise2\obj\Debug\exercise2.pdb
