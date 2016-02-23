@@ -7,3 +7,6 @@ E:\VS-projects\homework\ATM-machine\ATM-machine\obj\Debug\ATM-machine.pdb
 E:\GitHub\C-Sharp\Homework's\ATM-machine\ATM-machine\bin\Debug\ATM-machine.exe.config
 E:\GitHub\C-Sharp\Homework's\ATM-machine\ATM-machine\obj\Debug\ATM-machine.exe
 E:\GitHub\C-Sharp\Homework's\ATM-machine\ATM-machine\obj\Debug\ATM-machine.pdb
+E:\GitHub\C-Sharp\Homework's\ATM-machine\ATM-machine\bin\Debug\ATM-machine.exe
+E:\GitHub\C-Sharp\Homework's\ATM-machine\ATM-machine\bin\Debug\ATM-machine.pdb
+E:\GitHub\C-Sharp\Homework's\ATM-machine\ATM-machine\obj\Debug\ATM-machine.csprojResolveAssemblyReference.cache

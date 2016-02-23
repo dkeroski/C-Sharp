@@ -25,6 +25,7 @@ namespace ATM_machine
             {
                 Console.Write("PIN not match , Please enter your PIN:");
                 Console.ReadLine();
+            
             }
             else
             {
@@ -46,22 +47,7 @@ namespace ATM_machine
                     case 2:
                         Console.WriteLine("Enter the amount to withdraw :");
                         withdraw = int.Parse(Console.ReadLine());
-                        if (withdraw % 100 != 0)
-                        {
-                            Console.WriteLine("Enter withdraw divisible by 100 denars :");
-                            Console.ReadLine();
-                        }
-
-                        else if (withdraw > amount)
-                        {
-                            Console.WriteLine("Not enough money in your account:");
-                        }
-                        else
-                        {
-                            amount -= withdraw;
-                            Console.WriteLine("Please collect your cash!");
-                            Console.WriteLine("Your current balance is:" + amount);
-                        }
+                        checkCash(withdraw,amount);
                         break;
 
                     case 3:
@@ -91,7 +77,9 @@ namespace ATM_machine
                 if (transaction[0] == 'n')
                 {
                     Console.WriteLine("Thanks for used ATM machine , Goodbye....");
-                    Console.ReadLine();
+                    Console.Clear();
+                    System.Environment.Exit(-1);
+                 
                 }
 
                 else if (transaction[0] == 'y')
@@ -100,6 +88,38 @@ namespace ATM_machine
                 }
             }
 
+        }
+
+        public static void checkCash(int withdraw , int amount)
+        {
+            int[] banknotes = new int[] { 100, 500, 1000 };
+            if (withdraw % 100 != 0)
+            {
+                Console.WriteLine("Enter withdraw divisible by 100 denars :");
+                Console.Clear();
+                Console.ReadLine();
+            }
+
+            else if (withdraw > amount)
+            {
+                Console.WriteLine("Not enough money in your account:");
+                Console.Clear();
+                Console.ReadLine();
+            }
+            else 
+           
+            banknotes[2] = withdraw / 1000;
+            Console.WriteLine("You take Banknotes of 1000 = {0}", banknotes[2]);
+
+            banknotes[1] = (withdraw % 1000) / 500;
+            Console.WriteLine("You take Banknotes of 500 = {0}", banknotes[1]);
+
+            banknotes[0] = ((withdraw % 1000)% 500) / 100;
+            Console.WriteLine("You take Banknotes of 100 = {0}", banknotes[0]);
+
+            amount -= withdraw;
+            Console.WriteLine("Please collect your cash!");
+            Console.WriteLine("Your current balance is:" + amount);
         }
     }
 }
