@@ -1,0 +1,8 @@
+C:\Users\Kero\Desktop\exercise class\Shapes\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Kero\Desktop\exercise class\Shapes\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\Kero\Desktop\exercise class\Shapes\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Kero\Desktop\exercise class\Shapes\Shapes\Shapes\bin\Debug\Model.dll
+C:\Users\Kero\Desktop\exercise class\Shapes\Shapes\Shapes\bin\Debug\Model.pdb
+C:\Users\Kero\Desktop\exercise class\Shapes\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\Kero\Desktop\exercise class\Shapes\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\Kero\Desktop\exercise class\Shapes\Shapes\Shapes\obj\Debug\Shapes.pdb

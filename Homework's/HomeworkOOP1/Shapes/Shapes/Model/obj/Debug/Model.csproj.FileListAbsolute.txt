@@ -1,0 +1,5 @@
+C:\Users\Kero\Desktop\exercise class\Shapes\Shapes\Model\bin\Debug\Model.dll
+C:\Users\Kero\Desktop\exercise class\Shapes\Shapes\Model\bin\Debug\Model.pdb
+C:\Users\Kero\Desktop\exercise class\Shapes\Shapes\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Kero\Desktop\exercise class\Shapes\Shapes\Model\obj\Debug\Model.dll
+C:\Users\Kero\Desktop\exercise class\Shapes\Shapes\Model\obj\Debug\Model.pdb
