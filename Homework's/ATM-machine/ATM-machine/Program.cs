@@ -18,7 +18,7 @@ namespace ATM_machine
             int amount = 20000;
             int pin, deposit = 0, withdraw = 0, choice;
 
-          
+
             do
             {
                 Console.WriteLine("Please enter your PIN:");
@@ -75,7 +75,7 @@ namespace ATM_machine
             {
                 Console.WriteLine("Thanks for used ATM machine , Goodbye....");
                 Console.ReadLine();
-          
+
 
             }
 

@@ -1,0 +1,8 @@
+C:\Users\Kero\Desktop\exercise class\HomeworkOOP1\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+C:\Users\Kero\Desktop\exercise class\HomeworkOOP1\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+C:\Users\Kero\Desktop\exercise class\HomeworkOOP1\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+C:\Users\Kero\Desktop\exercise class\HomeworkOOP1\StudentApp\StudentApp\bin\Debug\Model.dll
+C:\Users\Kero\Desktop\exercise class\HomeworkOOP1\StudentApp\StudentApp\bin\Debug\Model.pdb
+C:\Users\Kero\Desktop\exercise class\HomeworkOOP1\StudentApp\StudentApp\obj\Debug\StudentApp.csprojResolveAssemblyReference.cache
+C:\Users\Kero\Desktop\exercise class\HomeworkOOP1\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+C:\Users\Kero\Desktop\exercise class\HomeworkOOP1\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
