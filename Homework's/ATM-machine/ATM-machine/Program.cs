@@ -88,36 +88,59 @@ namespace ATM_machine
 
         private static void checkCash(int withdraw, int amount)
         {
-            int[] banknotes = new int[] { 100, 500, 1000 };
-            if (withdraw % 100 != 0)
-            {
-                Console.WriteLine("Enter withdraw divisible by 100 denars :");
-                Console.ReadLine();
-            }
-
-            else if (withdraw > amount)
+            int moneyLeft = amount - withdraw;
+            int[] banknotes = new int[] { 10, 50, 100, 500, 1000, 5000 };
+            int[] quantity = new int[] { 20, 10, 10, 2, 8, 10 };
+            int[] BanknotesGiven = new int[6];
+            if (withdraw > amount)
             {
                 Console.WriteLine("Not enough money in your account:");
                 Console.ReadLine();
             }
             else
+            {
+                int i = banknotes.Length - 1;
+                while (withdraw > 0)
+                {
+                    if (banknotes[i] > withdraw)
+                    {
+                        i--;
+                        continue;
+                    }
+                    else
+                    {
+                        if (quantity[i] > 0)
+                        {
+                            withdraw -= banknotes[i];
+                            amount -= banknotes[i];
+                            quantity[i]--;
+                            BanknotesGiven[i]++;
+                        }
+                        else
+                            i--;
+                    }
 
-                banknotes[2] = withdraw / 1000;
-            Console.WriteLine("You take Banknotes of 1000 = {0}", banknotes[2]);
+                }
 
-            banknotes[1] = (withdraw % 1000) / 500;
-            Console.WriteLine("You take Banknotes of 500 = {0}", banknotes[1]);
+                Console.WriteLine("Your current balance is:" + amount);
+                Console.WriteLine("Dadeni banknoti: ");
+                for (int j = 0; j < BanknotesGiven.Length; j++)
+                {
+                    if (BanknotesGiven[j] == 0)
+                        continue;
+                    else
+                    {
+                        Console.WriteLine("{0} : {1}", banknotes[j], BanknotesGiven[j]);
+                    }
 
-            banknotes[0] = ((withdraw % 1000) % 500) / 100;
-            Console.WriteLine("You take Banknotes of 100 = {0}", banknotes[0]);
 
-            amount -= withdraw;
-            Console.WriteLine("Please collect your cash!");
-            Console.WriteLine("Your current balance is:" + amount);
 
-            //throw new NotImplementedException();
+                }
 
+
+                //throw new NotImplementedException();
+
+            }
         }
     }
 }
-
