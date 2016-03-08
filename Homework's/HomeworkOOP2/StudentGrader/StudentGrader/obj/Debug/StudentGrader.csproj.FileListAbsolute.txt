@@ -1,0 +1,8 @@
+E:\GitHub\C-Sharp\Homework's\HomeworkOOP2\StudentGrader\StudentGrader\bin\Debug\StudentGrader.exe.config
+E:\GitHub\C-Sharp\Homework's\HomeworkOOP2\StudentGrader\StudentGrader\bin\Debug\StudentGrader.exe
+E:\GitHub\C-Sharp\Homework's\HomeworkOOP2\StudentGrader\StudentGrader\bin\Debug\StudentGrader.pdb
+E:\GitHub\C-Sharp\Homework's\HomeworkOOP2\StudentGrader\StudentGrader\bin\Debug\Model.dll
+E:\GitHub\C-Sharp\Homework's\HomeworkOOP2\StudentGrader\StudentGrader\bin\Debug\Model.pdb
+E:\GitHub\C-Sharp\Homework's\HomeworkOOP2\StudentGrader\StudentGrader\obj\Debug\StudentGrader.csprojResolveAssemblyReference.cache
+E:\GitHub\C-Sharp\Homework's\HomeworkOOP2\StudentGrader\StudentGrader\obj\Debug\StudentGrader.exe
+E:\GitHub\C-Sharp\Homework's\HomeworkOOP2\StudentGrader\StudentGrader\obj\Debug\StudentGrader.pdb

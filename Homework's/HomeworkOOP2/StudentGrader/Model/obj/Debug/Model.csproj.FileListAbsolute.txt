@@ -1,0 +1,5 @@
+E:\GitHub\C-Sharp\Homework's\HomeworkOOP2\StudentGrader\Model\bin\Debug\Model.dll
+E:\GitHub\C-Sharp\Homework's\HomeworkOOP2\StudentGrader\Model\bin\Debug\Model.pdb
+E:\GitHub\C-Sharp\Homework's\HomeworkOOP2\StudentGrader\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\GitHub\C-Sharp\Homework's\HomeworkOOP2\StudentGrader\Model\obj\Debug\Model.dll
+E:\GitHub\C-Sharp\Homework's\HomeworkOOP2\StudentGrader\Model\obj\Debug\Model.pdb
