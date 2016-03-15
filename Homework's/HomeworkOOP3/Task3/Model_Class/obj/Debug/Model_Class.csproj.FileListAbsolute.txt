@@ -1,0 +1,7 @@
+C:\Users\Kero\Desktop\exercise\Task3\Model_Class\bin\Debug\Model_Class.dll
+C:\Users\Kero\Desktop\exercise\Task3\Model_Class\bin\Debug\Model_Class.pdb
+C:\Users\Kero\Desktop\exercise\Task3\Model_Class\bin\Debug\Interfaces.dll
+C:\Users\Kero\Desktop\exercise\Task3\Model_Class\bin\Debug\Interfaces.pdb
+C:\Users\Kero\Desktop\exercise\Task3\Model_Class\obj\Debug\Model_Class.csprojResolveAssemblyReference.cache
+C:\Users\Kero\Desktop\exercise\Task3\Model_Class\obj\Debug\Model_Class.dll
+C:\Users\Kero\Desktop\exercise\Task3\Model_Class\obj\Debug\Model_Class.pdb
