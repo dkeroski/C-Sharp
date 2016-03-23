@@ -1,0 +1,8 @@
+C:\Users\Kero\Desktop\MusicHomework\MusicInfoApp\MusicInfoApp\bin\Debug\MusicInfoApp.exe.config
+C:\Users\Kero\Desktop\MusicHomework\MusicInfoApp\MusicInfoApp\bin\Debug\MusicInfoApp.exe
+C:\Users\Kero\Desktop\MusicHomework\MusicInfoApp\MusicInfoApp\bin\Debug\MusicInfoApp.pdb
+C:\Users\Kero\Desktop\MusicHomework\MusicInfoApp\MusicInfoApp\bin\Debug\Model.dll
+C:\Users\Kero\Desktop\MusicHomework\MusicInfoApp\MusicInfoApp\bin\Debug\Model.pdb
+C:\Users\Kero\Desktop\MusicHomework\MusicInfoApp\MusicInfoApp\obj\Debug\MusicInfoApp.csprojResolveAssemblyReference.cache
+C:\Users\Kero\Desktop\MusicHomework\MusicInfoApp\MusicInfoApp\obj\Debug\MusicInfoApp.exe
+C:\Users\Kero\Desktop\MusicHomework\MusicInfoApp\MusicInfoApp\obj\Debug\MusicInfoApp.pdb
